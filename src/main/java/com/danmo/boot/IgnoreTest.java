@@ -5,6 +5,6 @@ import java.util.Date;
 public class IgnoreTest {
 
     public static void main(String [] args){
-        System.out.println("danmo"+new Date());
+        System.out.println("danmo prod"+new Date());
     }
 }
